@@ -20,5 +20,10 @@ yarn build
 yarn lint
 ```
 
+### Setup
+- Pada vue.config.js, ubah default url project
+- Pada main.js di axios baseURL ganti dengan URL api
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
